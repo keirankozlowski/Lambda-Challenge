@@ -3,7 +3,7 @@ const {
   lambdaSchool,
   longestString,
   computeUserAverageAge,
-} = require('./assessment'); 
+} = require('./assessment.js'); 
 
 describe('Lambda School Precourse Assessment', () => {
   describe('helloWorld', () => {
